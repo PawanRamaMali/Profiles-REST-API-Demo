@@ -1,3 +1,3 @@
-# Profiles REST API
+# Profiles REST API Demo
 
-Profiles REST 
+Profiles REST API
