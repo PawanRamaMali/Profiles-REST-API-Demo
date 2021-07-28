@@ -3,7 +3,7 @@
 set -e
 
 # TODO: Set to URL of git repo.
-PROJECT_GIT_URL='https://gitlab.com/qualisense-code/django-rest-api-demo.git'
+PROJECT_GIT_URL='https://github.com/PawanRamaMali/Profiles-REST-API-Demo.git'
 
 PROJECT_BASE_PATH='/usr/local/apps/profiles-rest-api'
 
